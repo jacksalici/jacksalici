@@ -9,3 +9,5 @@ I am studying **computer engineering** at the University of Modena and Reggio Em
 
 
 ###### *In case that you had not catch it yet, I like pizza and desk plants. **Also this page is not finished yet. 
+
+![](https://hit.yhype.me/github/profile?user_id=58181697)
