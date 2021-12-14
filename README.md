@@ -6,3 +6,6 @@ I am studying **computer engineering** at the University of Modena and Reggio Em
 
 ![](https://hit.yhype.me/github/profile?user_id=58181697)
 
+![](https://github.com/jacksalici/github-stats/blob/master/generated/languages.svg)
+
+
