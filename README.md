@@ -1,4 +1,4 @@
-# Hi there, people call me Jack! 🍕🌵*
+# Hi there, people call me Jack! 🌵*
 
 I am studying **computer engineering** at the University of Modena and Reggio Emilia and **visual design** on my own because if robot will conquest this planet at least they should be gorgeous. 
 
