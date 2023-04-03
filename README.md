@@ -10,7 +10,7 @@ Anyway, here some stats.
 
 Check out my last projects at [jacksalici.com](https://jacksalici.com) and remember that if you want to make me happy, please give me a slice of Margherita pizza.
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/b7735231-7170-4776-bd6e-fd4ed783bb69/deploy-status)](https://app.netlify.com/sites/jacksalici/deploys)
+[![Website Status](https://api.netlify.com/api/v1/badges/b7735231-7170-4776-bd6e-fd4ed783bb69/deploy-status)](https://jacksalici.com)
 
 
 ![](https://hit.yhype.me/github/profile?user_id=58181697)
