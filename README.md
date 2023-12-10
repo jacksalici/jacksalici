@@ -1,9 +1,9 @@
-Hey, people call me Jack 👨‍💻! I am a student, computer engineer, developer, maker, and sometimes designer. Currently, I am getting a Computer Engineering master's degree, Artificial Intelligence curriculum.  
-Check out my last projects on [my website 🌵](https://jacksalici.com) and please give me a slice of pizza 🍕.
+Hey, people call me Jack 👨‍💻! I am a student, computer engineer, developer, and sometimes designer. Currently, I am getting a Computer Engineering master's degree, Artificial Intelligence curriculum.  
+Check out my last projects on [my website](https://jacksalici.com) and please give me a slice of your pizza 🍕.
 
-<a href="http://jacksalici.com"><img alt="GitHub last commit (by committer)" src="https://img.shields.io/github/last-commit/jacksalici/jacksalici.com?style=flat-square&label=Website%20updated:&labelColor=gray&color=blue&link=https%3A%2F%2Fjacksalici.com"></a>
+<a href="http://jacksalici.com"><img alt="GitHub last commit (by committer)" src="https://img.shields.io/github/last-commit/jacksalici/jacksalici.com?style=flat&label=Website%20updated:&labelColor=gray&color=blue&link=https%3A%2F%2Fjacksalici.com"></a>
+![GitHub User's stars](https://img.shields.io/github/stars/jacksalici?affiliations=OWNER%2CCOLLABORATOR%2CORGANIZATION_MEMBER&label=Total%20star%20earned:&color=red)
 
-![Jack's GitHub stats](https://github-readme-stats.vercel.app/api?username=jacksalici&show_icons=false&disable_animations=true&hide_rank=true&hide_title=true&include_all_commits=true&border=false&theme=transparent)
 
 
 ### University projects 🎓
@@ -11,7 +11,7 @@ Check out my last projects on [my website 🌵](https://jacksalici.com) and plea
 - [`Smart Bus Stop`](https://github.com/jacksalici/smart-bus-stop): IoT project aimed to improve public transport; enabling fast, easy, and accessible mobility.
 - [`Leaping Llama`](https://github.com/overloadedllama/leapingllama): An Android Game where leaping llamas fight and shoot enemies while they have to dodge obstacles and canyons.
 
-### Current projects 📅
+### Current projects 🌵
 - [`Advent Of Code 2023`](https://github.com/jacksalici/AdventOfCode):  Eric Wastl's advent calendar of small programming puzzles
 - `OVCA survival prediction`: Ongoing multimodal approach to predict ovarian cancer
 
