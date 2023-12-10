@@ -14,6 +14,7 @@ Check out my last projects on [my website](https://jacksalici.com) and please gi
 ### Current projects 🌵
 - [`Advent Of Code 2023`](https://github.com/jacksalici/AdventOfCode):  Eric Wastl's advent calendar of small programming puzzles
 - `OVCA survival prediction`: Ongoing multimodal approach to predict ovarian cancer
+- `MRR Driverless global planner`: UNIMORE driverless Formula Student package for car trajectory optimization.
 
 ### Trending projects 🌟
 - [`Salinger Theme`](https://github.com/jacksalici/salinger-theme): A clean and minimalistic Hugo theme for personal blogs and portfolios.
