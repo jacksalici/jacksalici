@@ -12,8 +12,7 @@ Check out my last projects on [my website](https://jacksalici.com) and please gi
 - [`Leaping Llama`](https://github.com/overloadedllama/leapingllama): An Android Game where leaping llamas fight and shoot enemies while they have to dodge obstacles and canyons.
 
 ### Current projects 🌵
-- [`Advent Of Code 2023`](https://github.com/jacksalici/AdventOfCode):  Eric Wastl's advent calendar of small programming puzzles
-- `OVCA survival prediction`: Ongoing multimodal approach to predict ovarian cancer
+- `OVCA survival prediction`: Ongoing multimodal approach to predict ovarian cancer Overall Survival
 - `MRR Driverless global planner`: UNIMORE driverless Formula Student package for car trajectory optimization.
 
 ### Trending projects 🌟
