@@ -1,4 +1,4 @@
-Hey, people call me Jack 👨‍💻! I am a student, computer engineer, developer, and sometimes designer. Currently, I am getting a Computer Engineering master's degree, Artificial Intelligence curriculum.  
+Hey, people call me Jack 👨‍💻! I am a computer engineer, developer, and sometimes designer. I hold a Master's degree in a Computer Engineering, with a Artificial Intelligence curriculum.  
 Check out my last projects on [my website](https://jacksalici.com) and please give me a slice of your pizza 🍕.
 
 [![GitHub last commit](https://img.shields.io/github/last-commit/jacksalici/jacksalici.com?style=flat&label=Last%20website%20update%3A&color=blue&link=https%3A%2F%2Fjacksalici.com)](https://jacksalici.com)
@@ -15,6 +15,7 @@ Check out my last projects on [my website](https://jacksalici.com) and please gi
 - [`OVCA survival prediction`](https://github.com/cosimop2000/Multimodal-data-integration-for-OVCA-survival-prediction) 🧬: Multimodal approach to predict ovarian cancer Overall Survival
 - [`ESP Vanet`](https://github.com/jacksalici/esp-vanet) 🚒: ESP32-based VANET-like inter-vehicular network to provide ETSI ITS CAM and DENM to nearby cars.
 - [`MRR Driverless global planner`](https://github.com/jacksalici/mmrGlobalPlanner) 🏎️: UNIMORE driverless Formula Student package for car trajectory optimization.
+- [`Gaze-powered CoBot`](https://github.com/jacksalici/gaze-robot-assistant) 🦾: Gaze-driven robot manipulator that performs pick and place operations.
 
 ### Trending projects
 - [`Salinger Theme`](https://github.com/jacksalici/salinger-theme) 👨‍💻: A clean and minimalistic Hugo theme for personal blogs and portfolios.
