@@ -1,29 +1,8 @@
-Hey, people call me Jack 👨‍💻! I am a computer engineer, developer, and sometimes designer. I hold a Master's degree in a Computer Engineering, with a Artificial Intelligence curriculum.  
-Check out my last projects on [my website](https://jacksalici.com) and please give me a slice of your pizza 🍕.
+Hi there, people call me Jack! I am a computer and AI engineer, developer, and occasionally designer based in Italy.
+Check out **my last projects on [my website](https://jacksalici.com)** and please give me a slice of your pizza to help me **pursuing my PhD in ICT**.  
 
 [![GitHub last commit](https://img.shields.io/github/last-commit/jacksalici/jacksalici.com?style=flat&label=Last%20website%20update%3A&color=blue&link=https%3A%2F%2Fjacksalici.com)](https://jacksalici.com)
 [![Website](https://img.shields.io/website?url=https%3A%2F%2Fjacksalici.com&style=flat&label=Website%20status)](https://jacksalici.com)
 [![LeetCode user jacksalici](https://img.shields.io/badge/dynamic/json?style=flat&labelColor=gray&color=%23ffa116&label=Solved%20LeetCode%20problems&query=solved&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fjacksalici&logo=leetcode&logoColor=yellow)](https://leetcode.com/jacksalici/)
 [![GitHub User's stars](https://img.shields.io/github/stars/jacksalici?affiliations=OWNER%2CCOLLABORATOR%2CORGANIZATION_MEMBER&label=Total%20star%20earned:&color=red&style=flat&logo=github)](#)
-
-
-
-### University projects
-- [`EmotiVision`](https://github.com/SLG-Vision/EmotiVision) 🎥: Emotion detection and gaze analysis of retrieved faces
-- [`Smart Bus Stop`](https://github.com/jacksalici/smart-bus-stop) 🚏: IoT project aimed to improve public transport; enabling fast, easy, and accessible mobility.
-- [`Leaping Llama`](https://github.com/overloadedllama/leapingllama) 👾: An Android Game where leaping llamas fight and shoot enemies while they have to dodge obstacles and canyons.
-- [`OVCA survival prediction`](https://github.com/cosimop2000/Multimodal-data-integration-for-OVCA-survival-prediction) 🧬: Multimodal approach to predict ovarian cancer Overall Survival
-- [`ESP Vanet`](https://github.com/jacksalici/esp-vanet) 🚒: ESP32-based VANET-like inter-vehicular network to provide ETSI ITS CAM and DENM to nearby cars.
-- [`MRR Driverless global planner`](https://github.com/jacksalici/mmrGlobalPlanner) 🏎️: UNIMORE driverless Formula Student package for car trajectory optimization.
-- [`Gaze-powered CoBot`](https://github.com/jacksalici/gaze-robot-assistant) 🦾: Gaze-driven robot manipulator that performs pick and place operations.
-
-### Trending projects
-- [`Salinger Theme`](https://github.com/jacksalici/salinger-theme) 👨‍💻: A clean and minimalistic Hugo theme for personal blogs and portfolios.
-- [`Notion Cli List Manager`](https://github.com/jacksalici/notion-cli-list-manager) 📒: A simple command-line tool for managing Notion databases.
-
-### Miscellaneous projects
-- [`The Inventory App`](https://github.com/jacksalici/inventory-app) 🦹: Simple app for managing the inventory of your role-play game party.
-- [`Weather Station Client`](https://github.com/jacksalici/weather_station) 🌦️: A custom client for Ecowitt weather station data. 
-- [`Emoji Helper`](https://github.com/jacksalici/emoji-helper) 😁: npm package and API tools for querying emoji
-
 
